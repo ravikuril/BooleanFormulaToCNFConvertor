@@ -1,4 +1,4 @@
-# BooleanFormulaToCNFConvertor
+# Boolean Formula To CNF Convertor
 
 Follow below mentioned steps to convert boolean formules to cnf format.
 
